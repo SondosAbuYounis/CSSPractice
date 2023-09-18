@@ -1,0 +1,19 @@
+#underlined{
+    text-decoration: underline;
+}
+.blueText{
+    color: blue;
+}
+.link{
+    color:orange;
+}
+.fillLink{
+    color:brown;
+    background-color: yellow;
+}
+.redLink{
+    color: red;
+}
+.noBullets{
+    list-style: none;
+}

@@ -1,0 +1,19 @@
+tr {
+    border-collapse: separate;
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
+td {
+    border-collapse: separate;
+    border-radius: 5px;
+    box-shadow: 3px 3px #0000008c;
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+
+}
+table {
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+
+}
